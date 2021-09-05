@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulbhatt1899&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbhatt1899" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulbhatt1899" alt="rahulbhatt1899" /></a> </p>
-
 - 🌱 I’m currently learning **.Net Core, Angular**
 
 - 🤝 I’m looking for help with [DSA](https://github.com/rahulbhatt1899/DSA-using-CSharp)
@@ -31,5 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulbhatt1899&show_icons=true&locale=en&layout=compact" alt="rahulbhatt1899" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulbhatt1899&show_icons=true&locale=en" alt="rahulbhatt1899" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulbhatt1899&theme=tokyonight&show_icons=true&locale=en" alt="rahulbhatt1899" /></p>
 
